@@ -1,0 +1,15 @@
+{
+	"pages" : [
+			{
+				"title" :"Ma page",
+				"id" : "myHome",
+				"assets" : [
+					{
+						"type" : "image",
+						"src" : "web/images/logo.png",
+						"id" : "mogo"
+					}
+				]
+			}
+	]
+}
