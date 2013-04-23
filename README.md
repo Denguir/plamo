@@ -24,14 +24,14 @@ Plamo is a Fast tool for generate a project Template written on [node](http://no
 ## More Information
 
    Exemple of projects Type :
+   
+  - Type (b) :basic project is boilerplate HTML5, the folder that plamo clone is basicly [squelette-basic](https://github.com/khalidahmada/plamo/tree/master/squelette-basic) You can add the other librarys or file into your own plamo copy
+  
+  - Type (js) :is simple template boilerplate HTML5 and Backbone files the source template that plamo clone on select Type (js) is [squelette-js](https://github.com/khalidahmada/plamo/tree/master/squelette-js)
 
-      - Type (b) :basic project is boilerplate HTML5 (the folder that plamo clone is basicly [squelette-basic](https://github.com/khalidahmada/plamo/tree/master/squelette-basic)) You can add the other librarys or file into your own plamo copy
-      
-      - Type (js) :is simple template boilerplate HTML5 and Backbone files the source template that plamo clone on select Type (js) is [squelette-js](https://github.com/khalidahmada/plamo/tree/master/squelette-js)
+  - Type (cb) : is simple template for boilereplate HTML 5 and Backbone using CoffeeScript , SASS and COMPASS
 
-      - Type (cb) : is simple template for boilereplate HTML 5 and Backbone using CoffeeScript , SASS and COMPASS
-
-      You can also adding your own Template :) by adding your own folder into this squelettes folder.
+  You can also adding your own Template :) by adding your own folder into this squelettes folder.
 
 
 ##  Scaffolding
